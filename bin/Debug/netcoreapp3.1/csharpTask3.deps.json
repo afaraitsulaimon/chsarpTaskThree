@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "csharpTask3/1.0.0": {
+        "runtime": {
+          "csharpTask3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharpTask3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
